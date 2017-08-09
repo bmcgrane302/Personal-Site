@@ -1,3 +1,42 @@
 body {
-  background-color: blue;
+  background-color: gray;
+}
+header {
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 150%;
+  color: white;
+  height: 80px;
+  background-color: black;
+  margin: 0;
+}
+
+.image {
+  text-align: center;
+}
+.center {
+  width: 100%;
+  text-align: center;
+  padding: 25px;
+  border: 5px solid #000;
+}
+
+.links {
+  width: 100%;
+  text-align: center;
+  padding: 25px;
+}
+
+footer {
+  text-align: left;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 100%;
+  color: white;
+  height: 40px;
+  background-color: black;
+  margin: 0;
+}
+
+.centerImage {
+  text-align: center;
 }
