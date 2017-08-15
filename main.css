@@ -37,6 +37,7 @@ footer {
   background-color: black;
   margin: 0;
   font-family: 'Orbitron', sans-serif;
+  padding: 25px;
 }
 
 .centerImage {
@@ -48,3 +49,5 @@ footer {
   display: flex; justify-content: center;
   font-family: 'Orbitron', sans-serif;
   }
+
+ 

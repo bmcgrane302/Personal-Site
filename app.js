@@ -3,4 +3,4 @@ $( document ).ready(function() {
 });
 
 
-$(".mainImg").hide(4000).show(4000);
+$(".mainImg").hide(2000).show(2000);
