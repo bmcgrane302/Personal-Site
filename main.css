@@ -1,9 +1,12 @@
 body {
-background-color: gray;
+  background-color: gray;
 }
+
 header {
-  display: flex; align-items: center;
-  display: flex; justify-content: center;
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: center;
   font-family: 'Orbitron', sans-serif;
   font-size: 150%;
   color: white;
@@ -15,6 +18,7 @@ header {
 .image {
   text-align: center;
 }
+
 .center {
   width: 100%;
   text-align: center;
@@ -26,14 +30,17 @@ header {
   width: 100%;
   text-align: center;
   padding: 25px;
+  border: 5px solid #000;
 }
 
 footer {
-  display: flex; align-items: center;
-  display: flex; justify-content: flex-start;
-  font-size: 100%;
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 80%;
   color: white;
-  height: 40px;
+  height: 15px;
   background-color: black;
   margin: 0;
   font-family: 'Orbitron', sans-serif;
@@ -45,9 +52,24 @@ footer {
 }
 
 .gif {
-  display: flex; align-items: center;
-  display: flex; justify-content: center;
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: center;
   font-family: 'Orbitron', sans-serif;
-  }
+}
 
- 
+.border {
+  padding: 10px;
+  border: 5px solid black;
+  width: 25%;
+  background-color: lightgray;
+}
+
+.profile {
+  font-family: 'Raleway', sans-serif;
+  padding: 25px;
+  width: auto;
+  text-align: center;
+  border: 5px solid #000;
+}
